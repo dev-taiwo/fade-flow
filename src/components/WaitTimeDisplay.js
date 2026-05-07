@@ -15,10 +15,8 @@ export default function WaitTimeDisplay() {
 
   async function fetchWaitTime() {
     try {
-      const waitTime = 15;
+      const waitTime = 0;
       setWaitTime(waitTime);
-    } catch (error) {
-      console.error("Error fetching wait time:", error);
     } finally {
       setLoading(false);
     }

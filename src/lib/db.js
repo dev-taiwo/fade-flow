@@ -1,5 +1,3 @@
-import { supabase } from "./supabase";
-
 // Fetch all barbers
 export async function getBarbers() {
   return [

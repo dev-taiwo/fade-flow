@@ -48,7 +48,7 @@ export default function Home() {
             <div>
               <WaitTimeDisplay />
 
-              <div className="mt-8 bg-zinc-900 border border-gray-700 rounded-lg p-6">
+              <div className="mt-8 bg-barber-black-lighter border border-barber-gold rounded-lg p-6">
                 <h3 className="text-lg font-bold text-barber-gold mb-4">
                   Why Fade Flow?
                 </h3>

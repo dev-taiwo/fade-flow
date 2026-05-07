@@ -36,8 +36,6 @@ export default function AppointmentsPage() {
     try {
       const data = await getUserAppointments(userId);
       setAppointments(data);
-    } catch (error) {
-      console.error("Error loading appointments:", error);
     } finally {
       setLoading(false);
     }

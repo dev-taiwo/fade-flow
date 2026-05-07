@@ -25,8 +25,6 @@ export default function BookingPage() {
       ]);
       setServices(servicesData);
       setBarbers(barbersData);
-    } catch (error) {
-      console.error("Error loading data:", error);
     } finally {
       setLoading(false);
     }
