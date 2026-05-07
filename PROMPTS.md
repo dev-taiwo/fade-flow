@@ -1,4 +1,3 @@
-HEAD
 # Fade Flow MVP - Development Prompts
 
 This document contains the main prompts used to build the Fade Flow barbershop booking app MVP.
