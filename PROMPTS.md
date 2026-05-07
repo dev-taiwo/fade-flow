@@ -11,11 +11,6 @@ This document contains the main prompts used to build the Fade Flow barbershop b
 ```
 I am building a Next.js/Supabase app called Fade Flow for barbershops. The app helps customers book appointments, check wait times, and helps barbers manage walk-ins and appointments.
 
-The two main tasks are:
-
-Customers can book a haircut appointment.
-Customers can view upcoming appointments and wait times.
-
 Generate a clean modern app using Tailwind CSS with a dark barbershop style. Create:
 
 homepage
